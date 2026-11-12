@@ -1,0 +1,46 @@
+﻿namespace Activity3Finals
+{
+    public partial class Login : Form
+    {
+        public Login()
+        {
+            InitializeComponent();
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSignin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Hide();
+
+            using var registerForm = new Register();
+            registerForm.ShowDialog(this);
+
+            Show();
+        }
+    }
+}

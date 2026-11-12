@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\activity3finals\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|solutionrelative:activity3finals\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|c:\\users\\cyane\\source\\repos\\activity3\u00264finals\\activity3finals\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|solutionrelative:activity3finals\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|c:\\users\\cyane\\source\\repos\\activity3\u00264finals\\activity3finals\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|solutionrelative:activity3finals\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\activity3finals\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6952252E-4C5E-56CE-2BD1-974E76220026}|Activity3Finals\\Activity3Finals.csproj|solutionrelative:activity3finals\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Activity3Finals\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Activity3Finals\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAkwBoCAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T07:44:04.583Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Activity3Finals\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.cs",
+              "RelativeToolTip": "Activity3Finals\\Dashboard.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAmwI4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T03:58:18.578Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Activity3Finals\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Activity3Finals\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:32:49.635Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cyane\\source\\repos\\Activity3\u00264Finals\\Activity3Finals\\Login.cs",
+              "RelativeDocumentMoniker": "Activity3Finals\\Login.cs",
+              "ToolTip": "C:\\Users\\cyane\\source\\repos\\Activity3Finals\\Activity3Finals\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Activity3Finals\\Activity3Finals\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T03:35:09.118Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
